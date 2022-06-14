@@ -1,6 +1,6 @@
 /*
 
-    some developers prefer to to assign all their variables using const by default
+    some developers prefer to assign all their variables using const by default
     and only use let when they will need to reassign the value 
 
     it is important to understand that objects (including arrays and functions) assigned to a variable using const are still mutable. 

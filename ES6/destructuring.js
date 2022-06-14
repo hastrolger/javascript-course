@@ -7,7 +7,8 @@
 
 const myObject = {
     saludo: 'hola',
-    nombre: 'carlos'
+    nombre: 'carlos',
+    edad: 24
 }
 
 const {saludo, nombre} = myObject

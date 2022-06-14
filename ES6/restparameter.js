@@ -11,6 +11,10 @@ const restParameter = (...args) => {
 
 console.log(restParameter(2, 5, 4, 2));
 
+// spread operator
 const arr = [1, 21, 0]
 let arr_ = [...arr]
+console.log(arr)
+arr_[0] =2
 console.log(arr_)
+console.log(arr)
